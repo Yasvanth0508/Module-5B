@@ -24,6 +24,7 @@ print(equal)
 ```
 
 ## Output
-![Uploading 439325031-4c26dcc1-9990-4dd1-866f-dc1c6f347217.png…]()
+![439325031-4c26dcc1-9990-4dd1-866f-dc1c6f347217](https://github.com/user-attachments/assets/18c3ec88-56c3-4141-b0f8-c536115537b4)
 
 ## Result
+Thus,the program has been executed successfully.
