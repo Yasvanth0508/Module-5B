@@ -29,3 +29,4 @@ print(result)
 ![439326579-56ee6af8-835c-4881-9f98-3188cd2ed32e](https://github.com/user-attachments/assets/28f3fb71-f304-4a9f-b6b5-5afc869dfb32)
 
 ## Result
+Thus,the program has been executed successfully.
