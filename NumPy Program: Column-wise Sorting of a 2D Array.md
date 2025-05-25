@@ -25,3 +25,4 @@ print(sorted)
 ![439322848-fe2b0019-a533-4b1d-8e6b-1465ca52b498](https://github.com/user-attachments/assets/c608d275-b574-491c-b865-30608fcc7580)
 
 ## Result
+Thus,the program has been executed successfully.
